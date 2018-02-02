@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Crud 1.0</string>
+    <string name="apellido">apellido</string>
+    <string name="guardar">guardar</string>
+    <string name="nombre">nombre</string>
+    <string name="title_activity_listado">Listado</string>
+    <string name="mostrar">mostrar</string>
+    <string name="lista_usuarios">Lista Usuarios</string>
+    <string name="modificar">modificar</string>
+    <string name="eliminar">eliminar</string>
+</resources>
